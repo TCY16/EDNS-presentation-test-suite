@@ -4,6 +4,7 @@ With [LDNS](https://github.com/NLnetLabs/ldns) installed run `ldns-testns -p <yo
 
 
 The supported EDNS opts are available at the following query names:
+- `llq.example.com`
 - `nsid.example.com`
 - `dau.example.com`
 - `dhu.example.com`
